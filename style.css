@@ -1,0 +1,33 @@
+.con1{
+	text-align: center;
+	height: 200px;
+	padding: 80px;
+}
+
+.cont1titl{
+	color: red
+}
+
+.con2{
+	text-align: center;
+	height: 200px;
+	padding: 80px;
+	background-color: blue;
+}
+.con3{
+	text-align: center;
+	height: 200px;
+	padding: 80px;
+	background-color: green;
+}
+
+.con4{
+	text-align: center;
+	height: 200px;
+	padding: 80px;
+	background-color: #ffc107;
+}
+
+.title{
+	color: white;
+}
